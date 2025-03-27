@@ -12,9 +12,6 @@
 
 - 🌞 **Renewable-Powered HPC Systems**  
   Researching workload optimization and cluster management for solar/wind-integrated computing (REPACSS).
-  
-- 🧠 **AI for Scientific Data**  
-  Building LLM-based distributed metadata indexing systems for HDF5/netCDF datasets.
 
 - 💡 **RISC-V Extension for Global Address Space**  
   Investigating memory access mechanisms and programming models for large-scale, memory-intensive applications (xBGAS).
@@ -32,11 +29,11 @@
 - 💾 **xBGAS: Extended Base Addressing for HPC**  
   Developing micro-architecture extensions to the RISC-V ISA to enable scalable, global address spaces for efficient shared memory computing in HPC systems.
 
-- 📊 **LLM-Driven Scientific Metadata Indexing**  
-  Parallel MPI-based query system for large datasets; enhances access to scientific data repositories.
-
 - 🧠 **Slurm + GPU Power Profiling**  
   Profiling and monitoring GPU performance across 100+ nodes using Prometheus and DCGM.
+
+- 📊 **LLM-based Distributed Metadata Indexing**  
+  Parallel MPI-based query framework for HDF5/netCDF datasets; enhances access to scientific data repositories.
 
 - 🧪 **MRI Brain Registration via VoxelMorph**  
   Deep learning for medical image registration using unsupervised methods and OASIS dataset.
